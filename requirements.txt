@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+torch
+transformers
+scikit-learn
+scipy
+plotly
+umap-learn
+datasets
