@@ -35,7 +35,7 @@ This project uses the ```bash NASK-PIB/PL-Guard``` dataset. You may need a Huggi
 
 - ```bash scikit-learn``` (Clustering & Classifiers)
 
-- ```bash plotly``` & ```bash matplotlib` (Visualizations)
+- ```bash plotly``` & ```bash matplotlib``` (Visualizations)
 
 - ```bash umap-learn``` & ```bash pandas``` & ```bash numpy```
 
